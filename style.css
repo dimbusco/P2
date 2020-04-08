@@ -374,6 +374,71 @@ a {
     #page { 
 
         flex-direction: column;
+        font-size: x-small;
+
+    }
+
+    .partie-gauche {
+
+        width: 100%;
+        margin-right: 0;
+    
+    }
+
+    .photo {
+
+        margin-top: 1%;
+        margin-bottom: 0;
+
+    }
+
+    .contact p {
+
+        margin-top: 4%;
+        margin-bottom: 1%;
+
+    }
+
+    .story {
+
+        padding-bottom: 1em;
+
+    }
+    
+    .partie-droite {
+
+        width: 100%;
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    .for h3{
+
+        margin-top: 2.5em;
+
+    }
+
+    .exp h3 {
+
+        margin-top: 2.25em;
+
+    }
+
+    .titre-article h2 {
+
+        padding-left: 1em;
+
+    }
+
+    .exp-right {
+
+        margin-left: 5%;
+
+    }
+
+    .reco-right {
+
+        margin-left: 7%;
 
     }
 
